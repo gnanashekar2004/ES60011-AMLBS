@@ -2,7 +2,7 @@
 This repository contains projects completed as part of the ES60011 course on Applications of Machine Learning in Biological Sciences.
 
 ## Projects:
-- **Assignment 1**: Exploratory Data Analysis and Classification
+- **Assignment 1**: Heart Disease prediction using Exploratory Data Analysis and Classification
 - **Assignment 2**: Cancer Type Prediction with Machine Learning
 - **Assignment 3**: Predictive Housing Price Modelling with Neural Networks
 - **CNN-Classification**: CNN classification of Fine Needle Aspiration (FNA) images
