@@ -1,7 +1,7 @@
 ## NAME: POLA GNANA SHEKAR
 ## ROLL NO: 21CS10052
 
-# Assignment 1 - Exploratory Data Analysis and Classification
+# Assignment 1 - Heart Disease prediction using Exploratory Data Analysis and Classification
 This project explores a dataset using Python, pandas, and scikit-learn. The dataset, named `framingham.csv`, contains information related to heart disease risk factors and outcomes. The project involves data preprocessing, exploratory data analysis (EDA), and classification tasks.
 
 # Dependencies/ Requirements
